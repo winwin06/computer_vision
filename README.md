@@ -36,4 +36,4 @@ Perkembangan teknologi komputer modern, khususnya dalam bidang computer vision, 
 
 ## Tools & Teknologi
 - Bahasa Pemrograman: Python
-- Dataset: Kaggle [https://universe.roboflow.com/bethaniaworkspace/motorcycledetection-plboa](https://www.kaggle.com/datasets/abhay06102003/weather-recognizer-with-cnn.)
+- Dataset: Kaggle https://www.kaggle.com/datasets/abhay06102003/weather-recognizer-with-cnn
