@@ -1,6 +1,7 @@
 # Computer Vision Project Progress Report (25%)
 
 **Project Name**: Prediksi Kondisi Cuaca Berdasarkan Citra Langit Menggunakan YOLOv8
+
 **Student Name**: Wiwin Sigalingging 
 
 **Course/Institution**: Computer Vision/Politeknik Caltex Riau  
