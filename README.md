@@ -7,7 +7,7 @@
 **Course/Institution**: Computer Vision/Politeknik Caltex Riau  
 
 ## Latar Belakang
-Dalam perkembangan teknologi komputer modern, computer vision telah menjadi salah satu bidang yang banyak dimanfaatkan untuk mendukung otomatisasi dalam berbagai sektor kehidupan. Salah satu implementasinya adalah dalam prediksi kondisi cuaca berbasis citra langit. Proyek Prediksi Cuaca ini bertujuan untuk mengidentifikasi kondisi cuaca seperti cerah, mendung, atau hujan secara otomatis menggunakan algoritma YOLOv8, sehingga dapat memberikan alternatif yang efisien, cepat, dan terjangkau dibandingkan metode tradisional yang menggunakan sensor atmosfer atau citra satelit.
+Dalam perkembangan teknologi komputer modern, computer vision telah menjadi salah satu bidang yang banyak dimanfaatkan untuk mendukung otomatisasi dalam berbagai sektor kehidupan. Salah satu implementasinya adalah dalam prediksi kondisi cuaca berbasis citra langit. Proyek Prediksi Cuaca ini bertujuan untuk mengidentifikasi kondisi cuaca seperti cerah, mendung, atau hujan secara otomatis menggunakan algoritma YOLOv8.
 
 ## Perumusan Masalah
  Merancang dan membangun sistem berbasis computer vision yang mampu mengklasifikasikan kondisi cuaca berdasarkan citra langit secara akurat dan efisien
